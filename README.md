@@ -5,8 +5,8 @@ This repo contains a bare bones structure for the server technologies that are s
 ## How to
 
 1. First, you'll need to create an app on monday.com, see here: https://developer.monday.com/apps/docs/manage
-2. Then, inside the developer center within your app page go to the "hosting" tab and click on the "monday code" section
-3. Accept terms and condition, and you will be able to connect your app to monday code
+2. Then, in the developer center, within your app page, go to the "Monday Code" section in the left side menu, and click on the "General" link
+3. Click on the "Connect monday code" button and accept the terms and condition, and you will be able to connect your app to monday code
 4. You will need to install monday's apps CLI. To do so:
 - Install nodejs on your machine
 - Install our CLI: `npm install -g @mondaycom/apps-cli`. 
